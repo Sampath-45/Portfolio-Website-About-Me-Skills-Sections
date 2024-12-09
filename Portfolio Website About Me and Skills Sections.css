@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portfolio-first-part {
+    background-color: #323f4b;
+    font-family: "Roboto";
+}
+
+.first-head {
+    font-size: 20px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+.first-head2 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.img {
+    height: 300px;
+    border-radius: 8px;
+}
+
+.para {
+    font-size: 14px;
+    color: #9aa5b1;
+}
+
+.portfolio-second-part {
+    background-color: #1f2933;
+    padding: 15px;
+    font-family: "Roboto";
+}
+
+.cont-car {
+    border-radius: 6px;
+    background-color: #323f4b;
+    height: 110px;
+    width: 130px;
+    margin: 10px;
+}
+
+.img2 {
+    height: 70px;
+    width: 70px;
+}
+
+.head3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+}
